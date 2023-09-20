@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm SOOOBEE!
 
+<img width="{80%}" src="{https://github.com/sooobee/sooobee/assets/126560615/18d963a3-1721-4232-9f98-e3c27debe194}"/>
+
 
 <!--
 **sooobee/sooobee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
