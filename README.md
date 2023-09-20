@@ -55,6 +55,14 @@
 # ✏️ Studying ...
    ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
    ![UIKit](https://img.shields.io/badge/UiKit-2396F3.svg?&style=for-the-badge&logo=UIKit&logoColor=white)
+
+
+<!--
+# Project
+- bookdae map: 자대 자취생을 위한 지도
+- jackGame: 자바 platformer game (java)
+- lunchRabbit: 자대 학생들의 빠른 식당 매칭 앱-->
+
   
 
 
