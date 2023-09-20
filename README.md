@@ -9,7 +9,7 @@
 
 ### 🏫 study
 
-1. 03~ JBNU Computer Science
+2020.03~ JBNU Computer Science
 
 2023.09~ 멋쟁이사자처럼 앱 스쿨: iOS 3기
 
