@@ -52,16 +52,24 @@
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s00bee)](https://solved.ac/s00bee/)
 
+# license
+- 운전면허증 2종 보통
+- 정보처리기사 필기(2023)
+
 # ✏️ Studying ...
    ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
    ![UIKit](https://img.shields.io/badge/UiKit-2396F3.svg?&style=for-the-badge&logo=UIKit&logoColor=white)
 
 
-<!--
+
 # Project
-- bookdae map: 자대 자취생을 위한 지도
+- bookdae map: 자대 자취생을 위한 지도 
 - jackGame: 자바 platformer game (java)
-- lunchRabbit: 자대 학생들의 빠른 식당 매칭 앱-->
+- lunchRabbit: 자대 학생들의 빠른 식당 매칭 앱 (dart)
+
+  
+
+  
 
   
 
