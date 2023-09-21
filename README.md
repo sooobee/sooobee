@@ -1,5 +1,6 @@
 # Hi there 👋 It's SOOOBEE!
 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooobee&count_bg=%23000000&title_bg=%230054FF&icon=&icon_color=%23FF0E8C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 안녕하세요! 노력하는 예비 개발자 김수비입니다. 🔥
@@ -49,7 +50,7 @@
 
   ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
-  ![C](https://img.shields.io/badge/C++-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+  ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 
 - Tools
   
