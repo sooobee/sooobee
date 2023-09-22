@@ -1,8 +1,6 @@
 # Hi there 👋 It's SOOOBEE!
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooobee&count_bg=%23000000&title_bg=%230054FF&icon=&icon_color=%23FF0E8C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 안녕하세요! 노력하는 예비 개발자 김수비입니다. 🔥
 
 <img width="{70%}" src="https://github.com/sooobee/sooobee/assets/126560615/a08c4d3f-e777-4440-b3e3-0d6896be248d" width="300" height="300"/>
