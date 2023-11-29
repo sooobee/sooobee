@@ -1,6 +1,5 @@
+# Hi there 👋
 <!--
-# Hi there 👋 It's SOOOBEE!
-
 # ☎️ Contact
 
 - email: 20subi@gmail.com
